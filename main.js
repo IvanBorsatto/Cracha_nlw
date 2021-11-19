@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'IvanBorsatto',
-  youtube: 'jakelinegracielly',
-  facebook: 'ivanborsatto',
-  instagram: 'jakeline.gracielly',
-  twiter: 'jaquelinytec'
+  youtube: 'ivanborsatto',
+  facebook: 'ivan.borsatto',
+  instagram: 'ivanborsatto',
+  twiter: 'ivan_borsatto'
 }
 
 function changeSocialMediaLinks() {
